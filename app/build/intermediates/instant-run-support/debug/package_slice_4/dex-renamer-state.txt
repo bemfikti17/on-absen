@@ -1,4 +1,4 @@
-#Fri Dec 01 21:25:08 ICT 2017
-base.0=C\:\\Users\\Jibril Hartri Putra\\AndroidStudioProjects\\AbsenOnline\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23
+#Sat Dec 02 00:02:03 ICT 2017
+base.0=C\:\\Users\\Jibril Hartri Putra\\AndroidStudioProjects\\AbsenOnline\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex

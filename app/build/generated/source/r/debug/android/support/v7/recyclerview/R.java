@@ -24,8 +24,8 @@ public final class R {
         public static final int fontWeight = 0x7f030097;
         public static final int layoutManager = 0x7f0300b3;
         public static final int reverseLayout = 0x7f0300ee;
-        public static final int spanCount = 0x7f0300fd;
-        public static final int stackFromEnd = 0x7f030103;
+        public static final int spanCount = 0x7f0300fe;
+        public static final int stackFromEnd = 0x7f030104;
     }
     public static final class bool {
         public static final int abc_action_bar_embed_tabs = 0x7f040000;
@@ -110,12 +110,12 @@ public final class R {
         public static final int status_bar_notification_info_maxnum = 0x7f090009;
     }
     public static final class layout {
-        public static final int notification_action = 0x7f0a002a;
-        public static final int notification_action_tombstone = 0x7f0a002b;
-        public static final int notification_template_custom_big = 0x7f0a0032;
-        public static final int notification_template_icon_group = 0x7f0a0033;
-        public static final int notification_template_part_chronometer = 0x7f0a0037;
-        public static final int notification_template_part_time = 0x7f0a0038;
+        public static final int notification_action = 0x7f0a002b;
+        public static final int notification_action_tombstone = 0x7f0a002c;
+        public static final int notification_template_custom_big = 0x7f0a0033;
+        public static final int notification_template_icon_group = 0x7f0a0034;
+        public static final int notification_template_part_chronometer = 0x7f0a0038;
+        public static final int notification_template_part_time = 0x7f0a0039;
     }
     public static final class string {
         public static final int status_bar_notification_info_overflow = 0x7f0c0032;
@@ -141,7 +141,7 @@ public final class R {
         public static final int FontFamilyFont_font = 0;
         public static final int FontFamilyFont_fontStyle = 1;
         public static final int FontFamilyFont_fontWeight = 2;
-        public static final int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f030089, 0x7f03008a, 0x7f03008b, 0x7f03008c, 0x7f03008d, 0x7f0300b3, 0x7f0300ee, 0x7f0300fd, 0x7f030103 };
+        public static final int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f030089, 0x7f03008a, 0x7f03008b, 0x7f03008c, 0x7f03008d, 0x7f0300b3, 0x7f0300ee, 0x7f0300fe, 0x7f030104 };
         public static final int RecyclerView_android_orientation = 0;
         public static final int RecyclerView_android_descendantFocusability = 1;
         public static final int RecyclerView_fastScrollEnabled = 2;

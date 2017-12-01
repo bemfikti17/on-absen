@@ -1,36 +1,38 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\ba8b5fc99091322baa350323bb101ad0\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3ff0d5a307cfeaec8d3a4bd2cc523472\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3551e64ef4214d4d35e44f894f300bcb\AndroidManifest.xml:17:1-31:12
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\6a402f6b1b0d05c362f3c46cc77a082f\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\73bffc839c2acb97505d0a19a3999641\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\121c0d5a1ce1c67fb3c1565f8ca1fce5\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\55af2390b283bb83937fc3e10e2104c3\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:transition:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1f8c707d15112e2d48570f9c20961170\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d199605fd3ed250b825fb97a854fb2b\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55f8ad2d29ebedc520dc625ce754b611\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\50d06ca042332f21f7ada98bb805582f\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\48c5bf59c80c0ae80623fbc806604b32\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55f8ad2d29ebedc520dc625ce754b611\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\948a9444e1ec3e801fcfad96c8af363c\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1650bb1d1dfa022409a3a65cec3bb8bf\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:3:5-48
 		INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:11-69
@@ -50,12 +52,20 @@ uses-permission#android.permission.INTERNET
 ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:8:5-67
 	android:name
 		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:9:22-62
 application
-ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:10:5-26:19
+ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:11:5-28:19
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\ba8b5fc99091322baa350323bb101ad0\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\ba8b5fc99091322baa350323bb101ad0\AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:design:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3ff0d5a307cfeaec8d3a4bd2cc523472\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3ff0d5a307cfeaec8d3a4bd2cc523472\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3551e64ef4214d4d35e44f894f300bcb\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3551e64ef4214d4d35e44f894f300bcb\AndroidManifest.xml:25:5-29:19
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\6a402f6b1b0d05c362f3c46cc77a082f\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\6a402f6b1b0d05c362f3c46cc77a082f\AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\73bffc839c2acb97505d0a19a3999641\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\73bffc839c2acb97505d0a19a3999641\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\121c0d5a1ce1c67fb3c1565f8ca1fce5\AndroidManifest.xml:22:5-26:19
@@ -66,54 +76,64 @@ MERGED from [com.android.support:transition:26.1.0] C:\Users\Jibril Hartri Putra
 MERGED from [com.android.support:transition:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1f8c707d15112e2d48570f9c20961170\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d199605fd3ed250b825fb97a854fb2b\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d199605fd3ed250b825fb97a854fb2b\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55f8ad2d29ebedc520dc625ce754b611\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55f8ad2d29ebedc520dc625ce754b611\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\50d06ca042332f21f7ada98bb805582f\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\50d06ca042332f21f7ada98bb805582f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\48c5bf59c80c0ae80623fbc806604b32\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\48c5bf59c80c0ae80623fbc806604b32\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55f8ad2d29ebedc520dc625ce754b611\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55f8ad2d29ebedc520dc625ce754b611\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\948a9444e1ec3e801fcfad96c8af363c\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\948a9444e1ec3e801fcfad96c8af363c\AndroidManifest.xml:25:5-29:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1650bb1d1dfa022409a3a65cec3bb8bf\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1650bb1d1dfa022409a3a65cec3bb8bf\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:14:9-41
 	android:roundIcon
-		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:15:9-54
 	android:icon
-		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:16:9-40
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:17:9-40
 activity#pti.biro.fikti.com.presensionline.LoginActivity
-ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:17:9-25:20
+ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:18:9-26:20
 	android:label
-		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:19:13-45
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:20:13-45
 	android:name
-		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:18:13-42
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:19:13-42
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:24:27-74
+activity#pti.biro.fikti.com.presensionline.MainActivity
+ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:27:9-92
+	android:label
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:27:48-80
+	android:name
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:27:19-47
 uses-sdk
 INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\ba8b5fc99091322baa350323bb101ad0\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\ba8b5fc99091322baa350323bb101ad0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3ff0d5a307cfeaec8d3a4bd2cc523472\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3ff0d5a307cfeaec8d3a4bd2cc523472\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3551e64ef4214d4d35e44f894f300bcb\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3551e64ef4214d4d35e44f894f300bcb\AndroidManifest.xml:21:5-23:78
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\6a402f6b1b0d05c362f3c46cc77a082f\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\6a402f6b1b0d05c362f3c46cc77a082f\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\73bffc839c2acb97505d0a19a3999641\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\73bffc839c2acb97505d0a19a3999641\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\121c0d5a1ce1c67fb3c1565f8ca1fce5\AndroidManifest.xml:20:5-44
@@ -124,14 +144,14 @@ MERGED from [com.android.support:transition:26.1.0] C:\Users\Jibril Hartri Putra
 MERGED from [com.android.support:transition:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1f8c707d15112e2d48570f9c20961170\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d199605fd3ed250b825fb97a854fb2b\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d199605fd3ed250b825fb97a854fb2b\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55f8ad2d29ebedc520dc625ce754b611\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55f8ad2d29ebedc520dc625ce754b611\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\50d06ca042332f21f7ada98bb805582f\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\50d06ca042332f21f7ada98bb805582f\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\48c5bf59c80c0ae80623fbc806604b32\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\48c5bf59c80c0ae80623fbc806604b32\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55f8ad2d29ebedc520dc625ce754b611\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55f8ad2d29ebedc520dc625ce754b611\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\948a9444e1ec3e801fcfad96c8af363c\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\948a9444e1ec3e801fcfad96c8af363c\AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1650bb1d1dfa022409a3a65cec3bb8bf\AndroidManifest.xml:20:5-22:41
@@ -162,14 +182,14 @@ MERGED from [com.android.support:transition:26.1.0] C:\Users\Jibril Hartri Putra
 MERGED from [com.android.support:transition:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1f8c707d15112e2d48570f9c20961170\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d199605fd3ed250b825fb97a854fb2b\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d199605fd3ed250b825fb97a854fb2b\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55f8ad2d29ebedc520dc625ce754b611\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55f8ad2d29ebedc520dc625ce754b611\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\50d06ca042332f21f7ada98bb805582f\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\50d06ca042332f21f7ada98bb805582f\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\48c5bf59c80c0ae80623fbc806604b32\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\48c5bf59c80c0ae80623fbc806604b32\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55f8ad2d29ebedc520dc625ce754b611\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55f8ad2d29ebedc520dc625ce754b611\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\948a9444e1ec3e801fcfad96c8af363c\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\948a9444e1ec3e801fcfad96c8af363c\AndroidManifest.xml:26:9-28:38
 	android:value

@@ -1644,6 +1644,10 @@
         "source": "C:\\Users\\Jibril Hartri Putra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3551e64ef4214d4d35e44f894f300bcb\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\Jibril Hartri Putra\\AndroidStudioProjects\\AbsenOnline\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Jibril Hartri Putra\\AndroidStudioProjects\\AbsenOnline\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\Jibril Hartri Putra\\AndroidStudioProjects\\AbsenOnline\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
         "source": "C:\\Users\\Jibril Hartri Putra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3551e64ef4214d4d35e44f894f300bcb\\res\\color-v23\\abc_tint_default.xml"
     },
