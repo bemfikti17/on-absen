@@ -1,15 +1,15 @@
 <resources>
-    <string name="app_name">on-absen</string>
+    <string name="app_name">Presensi Online</string>
 
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-
-    <string name="action_settings">Settings</string>
-    <string name="android_studio">Android Studio</string>
-    <string name="android_studio_android_com">android.studio@android.com</string>
-    <string name="title_activity_dataci">dataci</string>
-    <string name="title_activity_aboutus">aboutus</string>
-    <string name="Home">Home</string>
-    <string name="Dataci">dataci</string>
-    <string name="Aboutus">aboutus</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">User anda</string>
+    <string name="prompt_password">Sandi anda</string>
+    <string name="action_sign_in">Masuk</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="error_invalid_email">Periksa kembali user anda</string>
+    <string name="error_invalid_password">Sandi terlalu pendek</string>
+    <string name="error_incorrect_password">Sandi salah</string>
+    <string name="error_field_required">Kotak ini perlu diisi</string>
+    <string name="permission_rationale">Silahkan kontak PTI
+    </string>
 </resources>

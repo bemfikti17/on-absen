@@ -1,0 +1,4 @@
+#Fri Dec 01 21:25:06 ICT 2017
+base.0=C\:\\Users\\Jibril Hartri Putra\\AndroidStudioProjects\\AbsenOnline\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+path.0=classes.dex
+renamed.0=classes.dex
