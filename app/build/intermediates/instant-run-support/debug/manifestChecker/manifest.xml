@@ -34,7 +34,8 @@
         </activity>
         <activity
             android:name="pti.biro.fikti.com.presensionline.MainActivity"
-            android:label="@string/app_name" />
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
 
         <meta-data
             android:name="android.support.VERSION"

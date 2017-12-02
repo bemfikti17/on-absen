@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\ba8b5fc99091322baa350323bb101ad0\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3ff0d5a307cfeaec8d3a4bd2cc523472\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3551e64ef4214d4d35e44f894f300bcb\AndroidManifest.xml:17:1-31:12
@@ -19,20 +19,20 @@ MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jibril Ha
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d8b633d894dad4b3480b17e42732e6fc\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\948a9444e1ec3e801fcfad96c8af363c\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1650bb1d1dfa022409a3a65cec3bb8bf\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:3:5-48
 		INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-30:12
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:2:11-69
@@ -57,7 +57,7 @@ ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\sr
 	android:name
 		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:9:22-62
 application
-ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:11:5-28:19
+ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:11:5-29:19
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\ba8b5fc99091322baa350323bb101ad0\AndroidManifest.xml:11:5-20
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\ba8b5fc99091322baa350323bb101ad0\AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:design:26.1.0] C:\Users\Jibril Hartri Putra\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3ff0d5a307cfeaec8d3a4bd2cc523472\AndroidManifest.xml:25:5-29:19
@@ -117,7 +117,9 @@ ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\sr
 	android:name
 		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:24:27-74
 activity#pti.biro.fikti.com.presensionline.MainActivity
-ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:27:9-92
+ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:27:9-28:61
+	android:screenOrientation
+		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:28:13-49
 	android:label
 		ADDED from C:\Users\Jibril Hartri Putra\AndroidStudioProjects\AbsenOnline\app\src\main\AndroidManifest.xml:27:48-80
 	android:name
